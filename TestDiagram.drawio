@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T10:04:40.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="D6_DQf8J1SvXhPp2ovlG" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T10:04:58.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gLXxOpXiM_OBzTnAIAmo" version="20.8.15" type="github">
   <diagram name="Page-1" id="sljPKBfTdFx07RPNkE-a">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -315,8 +315,8 @@
         <mxCell id="IrCGTTobbULhzL_yWjzC-150" value="Push Dockerhub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="495.65999999999997" y="1180.05" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IrCGTTobbULhzL_yWjzC-153" value="Mô hình 2: Triển khai CI/CD hoàn chỉnh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="83.92" y="1015.05" width="250" height="30" as="geometry" />
+        <mxCell id="IrCGTTobbULhzL_yWjzC-153" value="Mô hình 2: Triển khai CI/CD sử dụng webhook" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="63.92" y="1015.05" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IrCGTTobbULhzL_yWjzC-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrCGTTobbULhzL_yWjzC-154" target="IrCGTTobbULhzL_yWjzC-155">
           <mxGeometry relative="1" as="geometry" />
