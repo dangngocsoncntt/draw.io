@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T03:55:48.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="alH4LbewIQ4iXSG-2lsO" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T04:04:26.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fmKhwkSCf9IYx9OvXS3q" version="20.8.15" type="github">
   <diagram name="Page-1" id="nQsIqWVMZnrbPcf96f-v">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="qy9-5uaOzQTob9xjpulP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qy9-5uaOzQTob9xjpulP-1" target="qy9-5uaOzQTob9xjpulP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-12" value="Thêm/sửa/xóa/cấu hình dịch vụ sử dụng&amp;nbsp;&lt;br&gt;[Http/Https/API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-11" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-12" value="Thêm/sửa/xóa/cấu hình dịch vụ sử dụng&amp;nbsp;&lt;br&gt;[UI,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2514" y="2" relative="1" as="geometry">
             <mxPoint x="-19" y="-2" as="offset" />
           </mxGeometry>
