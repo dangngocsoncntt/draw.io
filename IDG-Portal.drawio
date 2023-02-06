@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T04:26:15.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7WwDA60W-6ZYOTw7fQX-" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T06:48:24.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="A0kv4KsNfhJAYSb3RPwA" version="20.8.15" type="github">
   <diagram name="Page-1" id="nQsIqWVMZnrbPcf96f-v">
-    <mxGraphModel dx="1687" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="1221" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,8 +157,8 @@
         <mxCell id="F3-BDdjjnU7tB3izrfYW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qy9-5uaOzQTob9xjpulP-5" target="F3-BDdjjnU7tB3izrfYW-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="945" y="500" />
-              <mxPoint x="945" y="460" />
+              <mxPoint x="980" y="500" />
+              <mxPoint x="980" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -182,7 +182,7 @@
         </mxCell>
         <object placeholders="1" c4Name="F5Networks Loadbalancing System" c4Type="Software System" c4Description="Hệ thống Loadbalancing F5 Networks" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="F3-BDdjjnU7tB3izrfYW-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="1000" y="400" width="240" height="120" as="geometry" />
+            <mxGeometry x="990" y="460" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="PowerDNS System" c4Type="Software System" c4Description="Hệ thống cập nhật thông tin Domain DNS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="F3-BDdjjnU7tB3izrfYW-2">
