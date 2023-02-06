@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T03:02:05.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XZj8SU-w3PFABITLNTXm" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T03:55:48.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="alH4LbewIQ4iXSG-2lsO" version="20.8.15" type="github">
   <diagram name="Page-1" id="nQsIqWVMZnrbPcf96f-v">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="qy9-5uaOzQTob9xjpulP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qy9-5uaOzQTob9xjpulP-1" target="qy9-5uaOzQTob9xjpulP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-12" value="Thêm/sửa/xóa/cấu hình dịch vụ sử dụng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-11" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-12" value="Thêm/sửa/xóa/cấu hình dịch vụ sử dụng&amp;nbsp;&lt;br&gt;[Http/Https/API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-11" vertex="1" connectable="0">
           <mxGeometry x="-0.2514" y="2" relative="1" as="geometry">
             <mxPoint x="-19" y="-2" as="offset" />
           </mxGeometry>
@@ -24,7 +24,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-15" value="Gửi Email sử dụng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-14" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-15" value="Gửi Email sử dụng&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-14" vertex="1" connectable="0">
           <mxGeometry x="-0.3353" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-18" value="Lưu Webserver File, Image vào" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-17" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-18" value="Lưu Webserver File, Image vào&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-17" vertex="1" connectable="0">
           <mxGeometry x="-0.6093" y="-1" relative="1" as="geometry">
             <mxPoint x="84" y="-1" as="offset" />
           </mxGeometry>
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-21" value="Đồng bộ trạng thái dịch vụ, cluster, region với" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-20" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-21" value="Đồng bộ trạng thái dịch vụ, cluster, region với&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-20" vertex="1" connectable="0">
           <mxGeometry x="0.5959" relative="1" as="geometry">
             <mxPoint x="-73" as="offset" />
           </mxGeometry>
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-25" value="Lưu Docker Image, Webserver Image tại" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-24" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-25" value="Lưu Docker Image, Webserver Image tại&lt;br&gt;[SDK,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-24" vertex="1" connectable="0">
           <mxGeometry x="0.5239" y="-4" relative="1" as="geometry">
             <mxPoint x="-21" as="offset" />
           </mxGeometry>
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3-BDdjjnU7tB3izrfYW-5" value="Lưu thông tin DNS vào&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-4" vertex="1" connectable="0">
+        <mxCell id="F3-BDdjjnU7tB3izrfYW-5" value="Lưu thông tin DNS vào&amp;nbsp;&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-4" vertex="1" connectable="0">
           <mxGeometry x="0.3524" y="2" relative="1" as="geometry">
             <mxPoint x="29" y="2" as="offset" />
           </mxGeometry>
@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3-BDdjjnU7tB3izrfYW-8" value="Cấu hình lưu logs vào" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-7" vertex="1" connectable="0">
+        <mxCell id="F3-BDdjjnU7tB3izrfYW-8" value="Cấu hình lưu logs vào&lt;br&gt;[SDK,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-7" vertex="1" connectable="0">
           <mxGeometry x="0.4276" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -97,7 +97,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3-BDdjjnU7tB3izrfYW-12" value="Trao đổi thông tin giữa các microservice sử dụng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-11" vertex="1" connectable="0">
+        <mxCell id="F3-BDdjjnU7tB3izrfYW-12" value="Trao đổi thông tin giữa các microservice sử dụng&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-11" vertex="1" connectable="0">
           <mxGeometry x="0.735" y="1" relative="1" as="geometry">
             <mxPoint x="-61" y="1" as="offset" />
           </mxGeometry>
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3-BDdjjnU7tB3izrfYW-14" value="Cache chung cho&amp;nbsp; IDG Portal sử dụng" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-13" vertex="1" connectable="0">
+        <mxCell id="F3-BDdjjnU7tB3izrfYW-14" value="Cache chung cho&amp;nbsp; IDG Portal sử dụng&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="F3-BDdjjnU7tB3izrfYW-13" vertex="1" connectable="0">
           <mxGeometry x="0.7445" y="-1" relative="1" as="geometry">
             <mxPoint x="-85" y="-1" as="offset" />
           </mxGeometry>
@@ -127,14 +127,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qy9-5uaOzQTob9xjpulP-13" value="Gửi Email&amp;nbsp; tới" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-9" vertex="1" connectable="0">
+        <mxCell id="qy9-5uaOzQTob9xjpulP-13" value="Gửi Email&amp;nbsp; tới&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qy9-5uaOzQTob9xjpulP-9" vertex="1" connectable="0">
           <mxGeometry x="0.1753" y="-1" relative="1" as="geometry">
             <mxPoint x="12" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="VNPT Email" c4Type="Software System" c4Description="Gửi nhận Email VNPT" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="qy9-5uaOzQTob9xjpulP-3">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="680" y="90" width="240" height="120" as="geometry" />
+            <mxGeometry x="710" y="90" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Object Storage" c4Type="Software System" c4Description="Lưu trữ thông tin Object, Image, File ..." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="qy9-5uaOzQTob9xjpulP-4">
@@ -144,6 +144,11 @@
         </object>
         <mxCell id="F3-BDdjjnU7tB3izrfYW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qy9-5uaOzQTob9xjpulP-5" target="F3-BDdjjnU7tB3izrfYW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lZMzKJCvB__8pkJdDw-H-1" value="LB khởi tạo&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F3-BDdjjnU7tB3izrfYW-3">
+          <mxGeometry x="0.24" y="-1" relative="1" as="geometry">
+            <mxPoint x="-12" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Kubenetes System" c4Type="Software System" c4Description="Tự động triển khai dịch vụ theo cấu hình từ IDG Portal lên môi trường K8S" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="qy9-5uaOzQTob9xjpulP-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
@@ -160,7 +165,7 @@
         </mxCell>
         <object placeholders="1" c4Name="F5Networks Loadbalancing System" c4Type="Software System" c4Description="Hệ thống Loadbalancing F5 Networks" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="F3-BDdjjnU7tB3izrfYW-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="960" y="480" width="240" height="120" as="geometry" />
+            <mxGeometry x="990" y="480" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="PowerDNS System" c4Type="Software System" c4Description="Hệ thống cập nhật thông tin Domain DNS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="F3-BDdjjnU7tB3izrfYW-2">
