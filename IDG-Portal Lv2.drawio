@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T04:17:12.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="F8ZcAhp4nF8MFqlcxCuP" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T04:33:21.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FtJdynNkbPq5FelqPR1M" version="20.8.15" type="github">
   <diagram name="Page-1" id="uCPrYSH1x2pnZycvU1Az">
-    <mxGraphModel dx="2443" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
         </mxCell>
         <object placeholders="1" c4Name="IDG Portal" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="jHMhiucuZkKmLPb81D8O-2">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-470" y="360" width="2600" height="810" as="geometry" />
+            <mxGeometry x="-470" y="360" width="3390" height="810" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Database" c4Container="Container" c4Technology="MySQL" c4Description="MySQL Database Schema" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jHMhiucuZkKmLPb81D8O-3">
@@ -122,11 +122,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bulLx8aTTU7-QIumF8he-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHMhiucuZkKmLPb81D8O-15" target="bulLx8aTTU7-QIumF8he-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1910" y="260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="bulLx8aTTU7-QIumF8he-44" value="Truy cập&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[UI,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-43">
           <mxGeometry x="-0.0372" y="-3" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHMhiucuZkKmLPb81D8O-15" target="bulLx8aTTU7-QIumF8he-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1960" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2260" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-72" value="Truy cập&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[UI,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-71">
+          <mxGeometry x="-0.053" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="Người dùng" c4Type="Người dùng" c4Description="Người dùng thao tác với hệ thống" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="jHMhiucuZkKmLPb81D8O-15">
@@ -164,7 +181,7 @@
         <mxCell id="jHMhiucuZkKmLPb81D8O-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHMhiucuZkKmLPb81D8O-30" target="jHMhiucuZkKmLPb81D8O-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="1050" />
+              <mxPoint x="770" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -270,7 +287,7 @@
         <mxCell id="bulLx8aTTU7-QIumF8he-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHMhiucuZkKmLPb81D8O-58" target="jHMhiucuZkKmLPb81D8O-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1210" y="1070" />
+              <mxPoint x="1210" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -383,10 +400,10 @@
             <mxGeometry x="1440" y="430" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="bulLx8aTTU7-QIumF8he-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-27" target="jHMhiucuZkKmLPb81D8O-3">
+        <mxCell id="bulLx8aTTU7-QIumF8he-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-27" target="jHMhiucuZkKmLPb81D8O-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1480" y="1110" />
+              <mxPoint x="1480" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -454,7 +471,7 @@
         <mxCell id="bulLx8aTTU7-QIumF8he-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-35" target="jHMhiucuZkKmLPb81D8O-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1830" y="1140" />
+              <mxPoint x="1830" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -466,7 +483,7 @@
         <mxCell id="bulLx8aTTU7-QIumF8he-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-35" target="jHMhiucuZkKmLPb81D8O-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1870" y="1320" />
+              <mxPoint x="1870" y="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -478,7 +495,7 @@
         <mxCell id="bulLx8aTTU7-QIumF8he-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-35" target="jHMhiucuZkKmLPb81D8O-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1890" y="1470" />
+              <mxPoint x="1890" y="1460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -487,17 +504,12 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bulLx8aTTU7-QIumF8he-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-35" target="bulLx8aTTU7-QIumF8he-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1970" y="1290" />
-              <mxPoint x="1970" y="1290" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="bulLx8aTTU7-QIumF8he-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-35" target="bulLx8aTTU7-QIumF8he-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bulLx8aTTU7-QIumF8he-62" value="Call API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-61">
-          <mxGeometry x="0.2181" y="4" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="bulLx8aTTU7-QIumF8he-76" value="Gọi API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-75">
+          <mxGeometry x="0.2662" y="3" relative="1" as="geometry">
+            <mxPoint x="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Name="API Application" c4Type="Container" c4Technology="SpringBoot" c4Description="Cung cấp API để web application gọi đến " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-35">
@@ -518,7 +530,93 @@
         </mxCell>
         <object placeholders="1" c4Name="PowerDNS System" c4Type="Software System" c4Description="Hệ thống cập nhật thông tin Domain DNS" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="1910" y="1360" width="240" height="120" as="geometry" />
+            <mxGeometry x="1790" y="1510" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="bulLx8aTTU7-QIumF8he-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-64" target="bulLx8aTTU7-QIumF8he-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Type="Single-Page Application" c4Container="Container" c4Technology="Angular" c4Description="Người dùng tương tác với giao diện web browser này" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-64">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="2150" y="610" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="bulLx8aTTU7-QIumF8he-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-66" target="bulLx8aTTU7-QIumF8he-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Web Application" c4Type="Container" c4Technology="Java Spring" c4Description="Tải thông tin web application vào single-page application" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-66">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="2150" y="430" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="bulLx8aTTU7-QIumF8he-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-67" target="jHMhiucuZkKmLPb81D8O-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2220" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-74" value="Lưu thông tin dịch vụ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-73">
+          <mxGeometry x="-0.5732" y="-4" relative="1" as="geometry">
+            <mxPoint x="-227" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-67" target="jHMhiucuZkKmLPb81D8O-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2250" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-79" value="Giao tiếp microservice sử dụng&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-78">
+          <mxGeometry x="-0.5302" y="-2" relative="1" as="geometry">
+            <mxPoint x="-49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-67" target="jHMhiucuZkKmLPb81D8O-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2270" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-81" value="Trao đổi thông tin cache sử dụng&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-80">
+          <mxGeometry x="-0.3783" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.892;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bulLx8aTTU7-QIumF8he-67" target="bulLx8aTTU7-QIumF8he-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2304" y="1150" />
+              <mxPoint x="2304" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-83" value="Get thông tin metrics dịch vụ từ&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bulLx8aTTU7-QIumF8he-82">
+          <mxGeometry x="0.1805" y="1" relative="1" as="geometry">
+            <mxPoint x="45" y="143" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="API Application" c4Type="Container" c4Technology="SpringBoot" c4Description="Cung cấp API để web application gọi đến " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-67">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="2150" y="820" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Alarm Microservice" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-68">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="2110" y="410" width="320" height="580" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="bulLx8aTTU7-QIumF8he-69" value="Tải&amp;nbsp; dữ liệu web&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Https,Https]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2235" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bulLx8aTTU7-QIumF8he-70" value="GọiAPI&lt;br&gt;[API]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="775" width="60" height="40" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="Prometheus" c4Type="Software System" c4Description="Server Prometheus thu thập thông tin metrics dịch vụ API Gateway, Object Storage" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="bulLx8aTTU7-QIumF8he-77">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="2090" y="1510" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
