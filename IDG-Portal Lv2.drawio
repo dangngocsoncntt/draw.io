@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T11:24:32.150Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FnsuCMhaoDPdMSZFHIRZ" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-06T11:26:08.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kKjyhqEkwcSlFac-zEBs" version="20.8.16" type="github">
   <diagram name="Page-1" id="uCPrYSH1x2pnZycvU1Az">
-    <mxGraphModel dx="3906" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3906" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -716,7 +716,7 @@
         <mxCell id="bulLx8aTTU7-QIumF8he-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bulLx8aTTU7-QIumF8he-88" target="jHMhiucuZkKmLPb81D8O-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-440" y="1100" />
+              <mxPoint x="-440" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -833,13 +833,25 @@
         <mxCell id="KAg_2A28rh5FubMyF8MZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAg_2A28rh5FubMyF8MZ-5" target="jHMhiucuZkKmLPb81D8O-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-890" y="1050" />
+              <mxPoint x="-840" y="1050" />
               <mxPoint x="200" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KAg_2A28rh5FubMyF8MZ-18" value="Gọi Feign&lt;br&gt;[Feign]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAg_2A28rh5FubMyF8MZ-17">
           <mxGeometry x="-0.6217" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAg_2A28rh5FubMyF8MZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KAg_2A28rh5FubMyF8MZ-5" target="jHMhiucuZkKmLPb81D8O-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-890" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAg_2A28rh5FubMyF8MZ-20" value="Cập nhật thông tin dịch vụ&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KAg_2A28rh5FubMyF8MZ-19">
+          <mxGeometry x="-0.6736" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
