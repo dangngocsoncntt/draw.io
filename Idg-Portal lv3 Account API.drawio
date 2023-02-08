@@ -1,15 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T08:13:34.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="h9WEEgsfdxeLRJx-bdUt" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T04:05:44.659Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nhrU7fhaLa5VfKoyf7pP" version="20.8.17" type="github">
   <diagram name="Page-1" id="AHlOgNWiukyZc97sLn1g">
-    <mxGraphModel dx="3139" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <object placeholders="1" c4Name="Account Microservice - API Application" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-1">
-          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-200" y="390" width="1450" height="660" as="geometry" />
+        <object placeholders="1" c4Name="API Application" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-1">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="70" y="390" width="910" height="660" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-3">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="410" />
@@ -17,48 +17,48 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-19" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-11">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-19" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-11" vertex="1" connectable="0">
           <mxGeometry x="0.1186" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-4">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-21" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-12">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-21" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-12" vertex="1" connectable="0">
           <mxGeometry x="-0.2041" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-5">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-22" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-13">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-22" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1617" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-6">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="490" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-23" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-14">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-23" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-14" vertex="1" connectable="0">
           <mxGeometry x="0.1798" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-7">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="400" />
@@ -66,328 +66,247 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-20" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-15">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-20" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-15" vertex="1" connectable="0">
           <mxGeometry x="0.352" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-8">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-26" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-16">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-26" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-16" vertex="1" connectable="0">
           <mxGeometry x="0.1197" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-9">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-25" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-17">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-25" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-17" vertex="1" connectable="0">
           <mxGeometry x="0.4496" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-10">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-2" target="lPV_3U9OnEWSiTstbx78-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="930" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-24" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-18">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-24" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-18" vertex="1" connectable="0">
           <mxGeometry x="0.3947" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <object placeholders="1" c4Type="Single-Page Application" c4Container="Container" c4Technology="Angular" c4Description="Người dùng tương tác với giao diện web browser này" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-2">
-          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="380" y="190" width="240" height="160" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-3" target="lPV_3U9OnEWSiTstbx78-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-35" value="Gọi&lt;br&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-34">
-          <mxGeometry x="0.1805" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="API Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới cập nhật API" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="430" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-4" target="lPV_3U9OnEWSiTstbx78-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-37" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-36">
-          <mxGeometry x="0.2422" y="-4" relative="1" as="geometry">
-            <mxPoint x="15" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="Organization Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng các API liên quan tới Tổ chức" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-4">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="580" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-5" target="lPV_3U9OnEWSiTstbx78-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-39" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-38">
-          <mxGeometry x="0.2384" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="Department Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng các API liên quan tới quản lý phòng ban" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-5">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="730" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-6" target="lPV_3U9OnEWSiTstbx78-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="930" />
-              <mxPoint x="180" y="930" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-41" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-40">
-          <mxGeometry x="0.1619" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="Auth Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng các API liên quan tới xác thức login SSO" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-6">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="870" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-7" target="lPV_3U9OnEWSiTstbx78-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-47" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-46">
-          <mxGeometry x="-0.2011" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="User Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới gửi thông tin User" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-7">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="570" y="430" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-8" target="lPV_3U9OnEWSiTstbx78-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-49" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-48">
-          <mxGeometry x="0.282" y="-1" relative="1" as="geometry">
-            <mxPoint x="-17" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="Permission Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới quyền" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-8">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="570" y="580" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-9" target="lPV_3U9OnEWSiTstbx78-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-51" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-50">
-          <mxGeometry x="-0.2051" y="2" relative="1" as="geometry">
-            <mxPoint x="2" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="Role Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới vai trò người dùng" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-9">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="570" y="730" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-10" target="lPV_3U9OnEWSiTstbx78-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-53" value="Gọi&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Function Call]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-52">
-          <mxGeometry x="-0.1911" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <object placeholders="1" c4Name="OTP Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới OTP" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="570" y="880" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="VNPT Email" c4Type="Software System" c4Description="Gửi nhận Email VNPT" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-27">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="860" y="1280" width="240" height="120" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="580" y="1210" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Database" c4Container="Container" c4Technology="MySQL" c4Description="MySQL Database Schema" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-29">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
             <mxGeometry x="400" y="1070" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-30" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-3" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-180" y="1170" />
+              <mxPoint x="100" y="490" />
+              <mxPoint x="100" y="1170" />
             </Array>
+            <mxPoint x="-180.0434782608695" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-67" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-55">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-67" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-55" vertex="1" connectable="0">
           <mxGeometry x="0.6658" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-120" y="-631" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="API Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp thao tác liên quan tới cập nhật API" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-30">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-190" y="430" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-31" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lPV_3U9OnEWSiTstbx78-4" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-150" y="1150" />
+              <mxPoint x="130" y="640" />
+              <mxPoint x="130" y="1150" />
               <mxPoint x="400" y="1150" />
             </Array>
+            <mxPoint x="-150.0434782608695" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-66" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-56">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-66" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-56" vertex="1" connectable="0">
           <mxGeometry x="0.0931" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-346" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Organization Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp chức năng liên quan tới Organization" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-31">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-160" y="580" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-32" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-5" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-110" y="1130" />
+              <mxPoint x="150" y="790" />
+              <mxPoint x="150" y="1130" />
             </Array>
+            <mxPoint x="-110.0434782608695" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-65" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-57">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-65" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-57" vertex="1" connectable="0">
           <mxGeometry x="0.1927" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" y="-272" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Department Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp chức năng liên quan tới quản lý phòng ban" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-32">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-120" y="730" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-33" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-6" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-30" y="1110" />
+              <mxPoint x="170" y="930" />
+              <mxPoint x="170" y="1110" />
             </Array>
+            <mxPoint x="-30.043478260869506" y="990" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-64" value="Cập nhật dữ liệu&lt;br&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-58">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-64" value="Cập nhật dữ liệu&lt;br&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-58" vertex="1" connectable="0">
           <mxGeometry x="0.48" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-95" y="-27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-33" target="lPV_3U9OnEWSiTstbx78-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-73" value="Validate Login&lt;br&gt;[SDK,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-72">
-          <mxGeometry x="0.709" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="Auth Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp chức năng liên quan tới xác thực login SSO" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-33">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-80" y="870" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-42" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-6" target="lPV_3U9OnEWSiTstbx78-54" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="990" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1190" y="1170" />
+              <mxPoint x="290" y="1090" />
+              <mxPoint x="290" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-71" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-59">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-73" value="Validate Login&lt;br&gt;[SDK,API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-72" vertex="1" connectable="0">
+          <mxGeometry x="0.709" relative="1" as="geometry">
+            <mxPoint y="-98" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPV_3U9OnEWSiTstbx78-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-7" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="490" />
+              <mxPoint x="940" y="1170" />
+            </Array>
+            <mxPoint x="1190.04347826087" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPV_3U9OnEWSiTstbx78-71" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-59" vertex="1" connectable="0">
           <mxGeometry x="0.2335" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="User Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới gửi thông tin User" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-42">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="960" y="430" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-43" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-8" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1150" y="1160" />
+              <mxPoint x="910" y="640" />
+              <mxPoint x="910" y="1150" />
             </Array>
+            <mxPoint x="1150.04347826087" y="700" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-70" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-60">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-70" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-60" vertex="1" connectable="0">
           <mxGeometry x="0.3992" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-38" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Permission Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới quyền" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-43">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="930" y="580" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-44" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="lPV_3U9OnEWSiTstbx78-9" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="1140" />
+              <mxPoint x="880" y="790" />
+              <mxPoint x="880" y="1140" />
               <mxPoint x="640" y="1140" />
             </Array>
+            <mxPoint x="1110.04347826087" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-69" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-61">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-69" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-61" vertex="1" connectable="0">
           <mxGeometry x="0.5471" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Role Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới vai trò người dùng" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-44">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="880" y="730" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-45" target="lPV_3U9OnEWSiTstbx78-29">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-10" target="lPV_3U9OnEWSiTstbx78-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="1110" />
+              <mxPoint x="850" y="940" />
+              <mxPoint x="850" y="1110" />
+            </Array>
+            <mxPoint x="1050.0434782608695" y="1000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPV_3U9OnEWSiTstbx78-68" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-63" vertex="1" connectable="0">
+          <mxGeometry x="0.787" y="-1" relative="1" as="geometry">
+            <mxPoint x="145" y="-89" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lPV_3U9OnEWSiTstbx78-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="lPV_3U9OnEWSiTstbx78-10" target="lPV_3U9OnEWSiTstbx78-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1000" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="730" y="1190" />
+              <mxPoint x="730" y="1190" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-68" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-63">
-          <mxGeometry x="0.787" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lPV_3U9OnEWSiTstbx78-45" target="lPV_3U9OnEWSiTstbx78-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-75" value="Gửi email&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPV_3U9OnEWSiTstbx78-74">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-75" value="Gửi email&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-74" vertex="1" connectable="0">
           <mxGeometry x="0.6061" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-138" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="OTP Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới OTP" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-45">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="860" y="880" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Name="VNPT SSO Server" c4Type="Software System" c4Description="Cung cấp dịch vụ login SSO" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="lPV_3U9OnEWSiTstbx78-54">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="-80" y="1280" width="240" height="120" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
+            <mxGeometry x="210" y="1210" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
