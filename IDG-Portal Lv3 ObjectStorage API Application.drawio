@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T03:36:59.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_upnLd9mb4KqoCk8ig91" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T03:48:16.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3DjSV_5wLJ5WLnDGtONa" version="20.8.17" type="github">
   <diagram name="Page-1" id="ppfrK4mwGM7O67zfGDvA">
-    <mxGraphModel dx="3240" dy="1232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
         </mxCell>
         <object placeholders="1" c4Name="API Application" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-2">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-440" y="220" width="1660" height="840" as="geometry" />
+            <mxGeometry x="-440" y="220" width="1660" height="680" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-3" target="haTNTQBAVEQ-URHlbs2T-60" edge="1">
@@ -202,14 +202,14 @@
         </mxCell>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-24" value="Request send email&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0913" relative="1" as="geometry">
-            <mxPoint x="10" y="116" as="offset" />
+            <mxPoint x="10" y="255" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-20" target="haTNTQBAVEQ-URHlbs2T-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-370" y="460" />
-              <mxPoint x="-370" y="1420" />
+              <mxPoint x="-370" y="1300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -218,26 +218,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="OTP Service" c4Type="Component" c4Technology="Java Spring" c4Description="Thực hiện chức năng liên quan tới OTP người dùng" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-20">
+        <object placeholders="1" c4Name="OTP Component" c4Type="Component" c4Technology="Java Spring" c4Description="Thực hiện chức năng liên quan tới OTP người dùng" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="-310" y="400" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="VNPT Email" c4Type="Software System" c4Description="Gửi nhận Email VNPT" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="-320" y="1080" width="240" height="120" as="geometry" />
+            <mxGeometry x="-320" y="1010.33" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Kafka Server" c4Type="Software System" c4Description="Server Kafka phục vụ giao tiếp các microservice với nhau" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry y="1130" width="240" height="120" as="geometry" />
+            <mxGeometry x="-30" y="1030" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-26" target="haTNTQBAVEQ-URHlbs2T-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-260" y="990" />
-              <mxPoint x="120" y="990" />
+              <mxPoint y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -250,7 +250,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-350" y="610" />
-              <mxPoint x="-350" y="1400" />
+              <mxPoint x="-350" y="1280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -259,21 +259,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="DNS Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng các API liên quan tới thao tác Domain Name System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-26">
+        <object placeholders="1" c4Name="DNS Component" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng các API liên quan tới thao tác Domain Name System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-26">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="-290" y="550" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-30" target="haTNTQBAVEQ-URHlbs2T-25" edge="1">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="haTNTQBAVEQ-URHlbs2T-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-20" y="1190" />
+              <mxPoint x="30" y="810" />
             </Array>
+            <mxPoint x="-10" y="810.3966666666666" as="sourcePoint" />
+            <mxPoint x="30" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-36" value="Gửi cập nhật trạng thái sang các ủy ban&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-35" vertex="1" connectable="0">
           <mxGeometry x="-0.3984" y="2" relative="1" as="geometry">
-            <mxPoint x="58" y="-50" as="offset" />
+            <mxPoint x="38" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-30" target="haTNTQBAVEQ-URHlbs2T-41" edge="1">
@@ -293,7 +295,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-330" y="770" />
-              <mxPoint x="-330" y="1380" />
+              <mxPoint x="-330" y="1260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -302,7 +304,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Synchronize Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cho phép đồng bộ trạng thái hoạt động của dịch vụ ở Management service với các dịch vụ Ủy ban theo trạng thái ở K8S" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-30">
+        <object placeholders="1" c4Name="Synchronize Component" c4Type="Component" c4Technology="Java Spring" c4Description="Cho phép đồng bộ trạng thái hoạt động của dịch vụ ở Management service với các dịch vụ Ủy ban theo trạng thái ở K8S" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-30">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="-250" y="710" width="240" height="120" as="geometry" />
           </mxCell>
@@ -325,7 +327,7 @@
             <Array as="points">
               <mxPoint x="890" y="800" />
               <mxPoint x="420" y="800" />
-              <mxPoint x="420" y="1190" />
+              <mxPoint x="420" y="1090" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -334,40 +336,38 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="haTNTQBAVEQ-URHlbs2T-37" target="haTNTQBAVEQ-URHlbs2T-71" edge="1">
+        <mxCell id="rhBUegcnvY4NYhHUlzK--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haTNTQBAVEQ-URHlbs2T-37" target="haTNTQBAVEQ-URHlbs2T-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1150" y="610" />
-              <mxPoint x="1150" y="1370" />
-              <mxPoint x="780" y="1370" />
+              <mxPoint x="1020" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-82" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-77" vertex="1" connectable="0">
-          <mxGeometry x="0.7145" relative="1" as="geometry">
+        <mxCell id="rhBUegcnvY4NYhHUlzK--2" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rhBUegcnvY4NYhHUlzK--1">
+          <mxGeometry x="0.6672" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="ServiceOrder Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp chức năng cho phép thêm mới/ cập nhật/ sửa / xóa / cấu hình dịch vụ ủy ban" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-37">
+        <object placeholders="1" c4Name="ServiceOrder Component" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp chức năng cho phép thêm mới/ cập nhật/ sửa / xóa / cấu hình dịch vụ ủy ban" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-37">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="860" y="550" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API Application" c4Type="Container" c4Technology="SpringBoot" c4Description="Cung cấp API để web application gọi đến " label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-41">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="530" y="1110" width="240" height="120" as="geometry" />
+            <mxGeometry x="530" y="1040.33" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Rancher Service" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-42">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="490" y="1070" width="320" height="210" as="geometry" />
+            <mxGeometry x="490" y="1000.33" width="320" height="210" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="haTNTQBAVEQ-URHlbs2T-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-60" target="haTNTQBAVEQ-URHlbs2T-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-390" y="310" />
-              <mxPoint x="-390" y="1440" />
+              <mxPoint x="-390" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -376,17 +376,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Dashboard Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cho phép thao tác cập nhật Dashboard" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-60">
+        <object placeholders="1" c4Name="Dashboard Component" c4Type="Component" c4Technology="Java Spring" c4Description="Cho phép thao tác cập nhật Dashboard" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="-330" y="250" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="haTNTQBAVEQ-URHlbs2T-65" target="haTNTQBAVEQ-URHlbs2T-71" edge="1">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="haTNTQBAVEQ-URHlbs2T-65" target="haTNTQBAVEQ-URHlbs2T-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1190" y="310" />
-              <mxPoint x="1190" y="1420" />
-              <mxPoint x="780" y="1420" />
+              <mxPoint x="1190" y="1320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -395,19 +394,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="ScriptVersion Service" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp các thao tác liên quan tới kịch bản triển khai các dịch vụ xuống K8S" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-65">
+        <object placeholders="1" c4Name="ScriptVersion Component" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp các thao tác liên quan tới kịch bản triển khai các dịch vụ xuống K8S" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-65">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="870" y="250" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Security Utils" c4Type="Component" c4Technology="Java Spring" c4Description="Thư viện cung cấp cách thức mã hóa/giải mã chuỗi" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-68">
+        <object placeholders="1" c4Name="Security Component" c4Type="Component" c4Technology="Java Spring" c4Description="Thư viện cung cấp cách thức mã hóa/giải mã chuỗi" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-68">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="860" y="400" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Database" c4Container="Container" c4Technology="MySQL" c4Description="MySQL Database Schema" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="haTNTQBAVEQ-URHlbs2T-71">
           <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="540" y="1340" width="240" height="120" as="geometry" />
+            <mxGeometry x="530" y="1230" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
