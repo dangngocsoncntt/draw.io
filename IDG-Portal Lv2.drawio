@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T03:34:55.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="96gPo_fkpYJZ95DqcsRg" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T09:18:01.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="G7fJZFXaNy61mV1sfqN4" version="20.8.18" type="github">
   <diagram name="Page-1" id="uCPrYSH1x2pnZycvU1Az">
-    <mxGraphModel dx="3749" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3387" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bulLx8aTTU7-QIumF8he-103" value="Gọi Feign&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;[Feign]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bulLx8aTTU7-QIumF8he-102" vertex="1" connectable="0">
+        <mxCell id="bulLx8aTTU7-QIumF8he-103" value="Gọi Feign&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Https]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bulLx8aTTU7-QIumF8he-102" vertex="1" connectable="0">
           <mxGeometry x="-0.1661" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
@@ -87,9 +87,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bulLx8aTTU7-QIumF8he-107" value="Gọi Feign&lt;br&gt;[Feign]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bulLx8aTTU7-QIumF8he-106" vertex="1" connectable="0">
+        <mxCell id="bulLx8aTTU7-QIumF8he-107" value="Gọi Feign&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Https]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="bulLx8aTTU7-QIumF8he-106" vertex="1" connectable="0">
           <mxGeometry x="-0.6789" relative="1" as="geometry">
-            <mxPoint x="-204" as="offset" />
+            <mxPoint x="1206" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bulLx8aTTU7-QIumF8he-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jHMhiucuZkKmLPb81D8O-10" target="bulLx8aTTU7-QIumF8he-108" edge="1">
@@ -392,7 +392,7 @@
             <mxGeometry x="-280" y="780" width="320" height="210" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="bulLx8aTTU7-QIumF8he-12" value="Gọi Feign&lt;br&gt;[Feign]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="bulLx8aTTU7-QIumF8he-12" value="Gọi Feign&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;[Https]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bulLx8aTTU7-QIumF8he-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bulLx8aTTU7-QIumF8he-15" target="jHMhiucuZkKmLPb81D8O-62" edge="1">
@@ -748,7 +748,7 @@
         <mxCell id="KAg_2A28rh5FubMyF8MZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KAg_2A28rh5FubMyF8MZ-5" target="bulLx8aTTU7-QIumF8he-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KAg_2A28rh5FubMyF8MZ-12" value="Gọi Feign&lt;br&gt;[Feign]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KAg_2A28rh5FubMyF8MZ-11" vertex="1" connectable="0">
+        <mxCell id="KAg_2A28rh5FubMyF8MZ-12" value="Gọi Feign&lt;br&gt;[Https]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KAg_2A28rh5FubMyF8MZ-11" vertex="1" connectable="0">
           <mxGeometry x="-0.3362" relative="1" as="geometry">
             <mxPoint x="7" as="offset" />
           </mxGeometry>
