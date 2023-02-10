@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T01:55:34.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pLH44DzHDh9AOoxTWnNc" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T01:57:06.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="iWWfEsZWYD8b9rnGWO7J" version="20.8.18" type="github">
   <diagram name="Page-1" id="8rtM6m07vtsyfEBvqDKu">
-    <mxGraphModel dx="2847" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fI5Uz8TSLdIrgGUn4hyG-1" value="Level 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1010.05" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="-50" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Database" c4Container="Container" c4Technology="MySQL" c4Description="MySQL Database Schema" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="fI5Uz8TSLdIrgGUn4hyG-3">
           <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
@@ -80,36 +80,6 @@
         <object placeholders="1" c4Name="Các hệ thống ngoài" c4Type="Software System" c4Description="Kubenetes, Kafka Server, Redis Server, Object Storage, VNPT SSO, VNPT Email .." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="fI5Uz8TSLdIrgGUn4hyG-50">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
             <mxGeometry x="-140" y="1020" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="fI5Uz8TSLdIrgGUn4hyG-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1910" y="940" as="sourcePoint" />
-            <mxPoint x="1910" y="1510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fI5Uz8TSLdIrgGUn4hyG-99" value="Gọi API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fI5Uz8TSLdIrgGUn4hyG-98">
-          <mxGeometry x="0.2662" y="3" relative="1" as="geometry">
-            <mxPoint x="-40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fI5Uz8TSLdIrgGUn4hyG-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.892;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="fI5Uz8TSLdIrgGUn4hyG-117">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2304" y="1150" />
-              <mxPoint x="2304" y="1150" />
-            </Array>
-            <mxPoint x="2303.999999999999" y="940" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fI5Uz8TSLdIrgGUn4hyG-113" value="Get thông tin metrics dịch vụ từ&lt;br&gt;[SDK]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fI5Uz8TSLdIrgGUn4hyG-112">
-          <mxGeometry x="0.1805" y="1" relative="1" as="geometry">
-            <mxPoint x="45" y="143" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="Prometheus" c4Type="Software System" c4Description="Server Prometheus thu thập thông tin metrics dịch vụ API Gateway, Object Storage" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="fI5Uz8TSLdIrgGUn4hyG-117">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
-            <mxGeometry x="2090" y="1510" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
