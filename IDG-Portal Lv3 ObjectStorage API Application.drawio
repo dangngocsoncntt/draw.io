@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T03:57:57.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EDjDk6U4P33LNey1jxb0" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T09:19:02.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="a_jLsHYIT08W-jR7YOgA" version="20.8.18" type="github">
   <diagram name="Page-1" id="ppfrK4mwGM7O67zfGDvA">
-    <mxGraphModel dx="2643" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,7 +254,7 @@
             <mxPoint x="960" y="670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-46" value="Gọi Feign&lt;br&gt;[Feign]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-45" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-46" value="Gọi Feign&lt;br&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-45" vertex="1" connectable="0">
           <mxGeometry x="0.0012" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -273,7 +273,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhBUegcnvY4NYhHUlzK--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haTNTQBAVEQ-URHlbs2T-9" target="haTNTQBAVEQ-URHlbs2T-71">
+        <mxCell id="rhBUegcnvY4NYhHUlzK--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="haTNTQBAVEQ-URHlbs2T-9" target="haTNTQBAVEQ-URHlbs2T-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="670" as="sourcePoint" />
             <Array as="points">
@@ -281,7 +281,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhBUegcnvY4NYhHUlzK--2" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rhBUegcnvY4NYhHUlzK--1">
+        <mxCell id="rhBUegcnvY4NYhHUlzK--2" value="Cập nhật dữ liệu&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[Jdbc]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rhBUegcnvY4NYhHUlzK--1" vertex="1" connectable="0">
           <mxGeometry x="0.6672" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -329,9 +329,6 @@
             <mxGeometry x="530" y="1230" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="rhBUegcnvY4NYhHUlzK--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
