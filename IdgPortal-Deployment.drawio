@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:22:06.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XHkbV-2sTW8c82OEyZMK" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:22:48.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3Ki3YD7Rmu-yOsS4UArU" version="20.8.20" type="github">
   <diagram name="Page-1" id="FkwfmJI3MNjf-J-gVQuq">
     <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
           </mxCell>
         </object>
         <mxCell id="napfdOq0VsTb4T-awuB--1" value="Gọi API&lt;br&gt;[Spring Cloud Gateway]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="U1VdmHlD9G0fdga50d1m-1">
-          <mxGeometry y="20" relative="1" as="geometry">
+          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint x="480" y="520" as="sourcePoint" />
             <mxPoint x="230" y="520" as="targetPoint" />
             <mxPoint as="offset" />
