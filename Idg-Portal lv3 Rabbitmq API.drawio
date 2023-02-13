@@ -1,43 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-02-10T09:49:28.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GgIPKdufVwsJGx4CeTeV" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:14:49.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0gfpGhlNp8yE_U2Q6AQ1" version="20.8.20" type="github">
   <diagram name="Page-1" id="k-DZ6BxSQYpGl3-NyxvE">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="API Application" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="VFW_vwJmkZWHE8H8W5jm-1">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="150" y="390" width="690" height="210" as="geometry" />
+            <mxGeometry x="150" y="200" width="690" height="400" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="VFW_vwJmkZWHE8H8W5jm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFW_vwJmkZWHE8H8W5jm-6" target="VFW_vwJmkZWHE8H8W5jm-9" edge="1">
+        <mxCell id="VFW_vwJmkZWHE8H8W5jm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="VFW_vwJmkZWHE8H8W5jm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="280" />
             </Array>
+            <mxPoint x="380" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFW_vwJmkZWHE8H8W5jm-3" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VFW_vwJmkZWHE8H8W5jm-2" vertex="1" connectable="0">
+        <mxCell id="VFW_vwJmkZWHE8H8W5jm-3" value="Send Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VFW_vwJmkZWHE8H8W5jm-2" vertex="1" connectable="0">
           <mxGeometry x="0.1186" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFW_vwJmkZWHE8H8W5jm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VFW_vwJmkZWHE8H8W5jm-6" target="VFW_vwJmkZWHE8H8W5jm-12" edge="1">
+        <mxCell id="VFW_vwJmkZWHE8H8W5jm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="VFW_vwJmkZWHE8H8W5jm-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="280" />
             </Array>
+            <mxPoint x="620" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFW_vwJmkZWHE8H8W5jm-5" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VFW_vwJmkZWHE8H8W5jm-4" vertex="1" connectable="0">
+        <mxCell id="VFW_vwJmkZWHE8H8W5jm-5" value="Send Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VFW_vwJmkZWHE8H8W5jm-4" vertex="1" connectable="0">
           <mxGeometry x="0.352" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Type="Single-Page Application" c4Container="Container" c4Technology="Angular" c4Description="Người dùng tương tác với giao diện web browser này" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="VFW_vwJmkZWHE8H8W5jm-6">
-          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="380" y="190" width="240" height="160" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Name="Rabbitmq Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới cập nhật Rabbitmq" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="VFW_vwJmkZWHE8H8W5jm-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="430" width="240" height="120" as="geometry" />
@@ -97,6 +94,24 @@
         <object placeholders="1" c4Name="Kafka Server" c4Type="Software System" c4Description="Server Kafka phục vụ giao tiếp các microservice với nhau" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="VFW_vwJmkZWHE8H8W5jm-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="580" y="670" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Dr6_I73j5rMoSzA4zMPk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dr6_I73j5rMoSzA4zMPk-1" target="Dr6_I73j5rMoSzA4zMPk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dr6_I73j5rMoSzA4zMPk-4" value="Gọi API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dr6_I73j5rMoSzA4zMPk-3">
+          <mxGeometry x="-0.2229" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="Single-Page Application" c4Container="Container" c4Technology="Angular" c4Description="Người dùng tương tác với giao diện web browser này" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Dr6_I73j5rMoSzA4zMPk-1">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="380" y="10" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Gateway" c4Type="Component" c4Technology="Spring Cloud Gateway" c4Description="Cung cấp chức năng giúp filter, predicate request/response" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="Dr6_I73j5rMoSzA4zMPk-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="380" y="220" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
