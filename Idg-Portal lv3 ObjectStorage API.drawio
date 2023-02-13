@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T04:15:10.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tSXshgDQOSsu0LpwxGL6" version="20.8.17" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T02:13:14.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5mChqQIzZJ8ZUh_-e17Z" version="20.8.20" type="github">
   <diagram name="Page-1" id="sv3DQDIcMBF_Lf7yeqYv">
     <mxGraphModel dx="1687" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,38 +6,35 @@
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="API Application" c4Type="ContainerScopeBoundary" c4Application="Container" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="YjyXaOj-D24Os-7X3L93-1">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="110" y="390" width="820" height="210" as="geometry" />
+            <mxGeometry x="110" y="210" width="820" height="390" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="YjyXaOj-D24Os-7X3L93-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YjyXaOj-D24Os-7X3L93-18" target="YjyXaOj-D24Os-7X3L93-21" edge="1">
+        <mxCell id="YjyXaOj-D24Os-7X3L93-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="YjyXaOj-D24Os-7X3L93-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="290" />
             </Array>
+            <mxPoint x="380" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YjyXaOj-D24Os-7X3L93-3" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YjyXaOj-D24Os-7X3L93-2" vertex="1" connectable="0">
+        <mxCell id="YjyXaOj-D24Os-7X3L93-3" value="Send Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YjyXaOj-D24Os-7X3L93-2" vertex="1" connectable="0">
           <mxGeometry x="0.1186" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YjyXaOj-D24Os-7X3L93-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YjyXaOj-D24Os-7X3L93-18" target="YjyXaOj-D24Os-7X3L93-33" edge="1">
+        <mxCell id="YjyXaOj-D24Os-7X3L93-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="YjyXaOj-D24Os-7X3L93-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="290" />
             </Array>
+            <mxPoint x="620" y="290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YjyXaOj-D24Os-7X3L93-11" value="Gọi API&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YjyXaOj-D24Os-7X3L93-10" vertex="1" connectable="0">
+        <mxCell id="YjyXaOj-D24Os-7X3L93-11" value="Send Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="YjyXaOj-D24Os-7X3L93-10" vertex="1" connectable="0">
           <mxGeometry x="0.352" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Type="Single-Page Application" c4Container="Container" c4Technology="Angular" c4Description="Người dùng tương tác với giao diện web browser này" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YjyXaOj-D24Os-7X3L93-18">
-          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" parent="1" vertex="1">
-            <mxGeometry x="380" y="190" width="240" height="160" as="geometry" />
-          </mxCell>
-        </object>
         <object placeholders="1" c4Name="Minio Controller" c4Type="Component" c4Technology="Java Spring" c4Description="Cung cấp cho người dùng thao tác liên quan tới cập nhật Object Storage" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YjyXaOj-D24Os-7X3L93-21">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="200" y="430" width="240" height="120" as="geometry" />
@@ -117,6 +114,24 @@
         <object placeholders="1" c4Name="Kafka Server" c4Type="Software System" c4Description="Server Kafka phục vụ giao tiếp các microservice với nhau" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="YjyXaOj-D24Os-7X3L93-77">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="730" y="670" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="yqSVbydUxVeN1Z334m6n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yqSVbydUxVeN1Z334m6n-1" target="yqSVbydUxVeN1Z334m6n-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqSVbydUxVeN1Z334m6n-4" value="Gọi API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yqSVbydUxVeN1Z334m6n-3">
+          <mxGeometry x="-0.2038" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Type="Single-Page Application" c4Container="Container" c4Technology="Angular" c4Description="Người dùng tương tác với giao diện web browser này" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Type%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Container%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="yqSVbydUxVeN1Z334m6n-1">
+          <mxCell style="shape=mxgraph.c4.webBrowserContainer2;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;strokeColor=#118ACD;fillColor=#23A2D9;strokeColor=#118ACD;strokeColor2=#0E7DAD;fontSize=12;fontColor=#ffffff;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="1">
+            <mxGeometry x="380" y="20" width="240" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Gateway" c4Type="Component" c4Technology="Spring Cloud Gateway" c4Description="Cung cấp chức năng giúp filter, predicate request/response" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="yqSVbydUxVeN1Z334m6n-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#63BEF2;fontColor=#ffffff;align=center;arcSize=6;strokeColor=#2086C9;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="380" y="230" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
       </root>
