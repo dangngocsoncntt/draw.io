@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:25:22.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bUFM_J0SqDG9ldMllcg-" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T09:28:15.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="g-FEThnB3IEuzVcvn6Fn" version="20.8.20" type="github">
   <diagram name="Page-1" id="AHlOgNWiukyZc97sLn1g">
-    <mxGraphModel dx="1195" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
             <mxPoint x="380" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-19" value="Gửi Request&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-11" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-19" value="Gửi Request&lt;br&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-11" vertex="1" connectable="0">
           <mxGeometry x="0.1186" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -30,7 +30,7 @@
             <mxPoint x="460" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-21" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-12" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-21" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-12" vertex="1" connectable="0">
           <mxGeometry x="-0.2041" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -43,7 +43,7 @@
             <mxPoint x="470" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-22" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-13" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-22" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1617" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -56,7 +56,7 @@
             <mxPoint x="490" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-23" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-14" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-23" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-14" vertex="1" connectable="0">
           <mxGeometry x="0.1798" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -69,7 +69,7 @@
             <mxPoint x="620" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-20" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-15" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-20" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-15" vertex="1" connectable="0">
           <mxGeometry x="0.352" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -82,7 +82,7 @@
             <mxPoint x="550" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-26" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-16" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-26" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-16" vertex="1" connectable="0">
           <mxGeometry x="0.1197" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -95,7 +95,7 @@
             <mxPoint x="530" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-25" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-17" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-25" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-17" vertex="1" connectable="0">
           <mxGeometry x="0.4496" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -108,7 +108,7 @@
             <mxPoint x="500" y="360" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPV_3U9OnEWSiTstbx78-24" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-18" vertex="1" connectable="0">
+        <mxCell id="lPV_3U9OnEWSiTstbx78-24" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPV_3U9OnEWSiTstbx78-18" vertex="1" connectable="0">
           <mxGeometry x="0.3947" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -318,7 +318,7 @@
         <mxCell id="-LZ4Z8pRtgQnefBwzzAY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-LZ4Z8pRtgQnefBwzzAY-3" target="-LZ4Z8pRtgQnefBwzzAY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-LZ4Z8pRtgQnefBwzzAY-5" value="Gọi API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-LZ4Z8pRtgQnefBwzzAY-4" vertex="1" connectable="0">
+        <mxCell id="-LZ4Z8pRtgQnefBwzzAY-5" value="Gọi API&lt;br&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="-LZ4Z8pRtgQnefBwzzAY-4" vertex="1" connectable="0">
           <mxGeometry x="-0.2667" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
