@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:27:02.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VcUXitxkH16TXWt9TiAN" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T09:30:12.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="O3_v6SAmwEaVi76I34Zo" version="20.8.20" type="github">
   <diagram name="Page-1" id="ppfrK4mwGM7O67zfGDvA">
-    <mxGraphModel dx="2284" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="2156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
             <mxPoint x="330.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-49" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-12" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-49" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-12" vertex="1" connectable="0">
           <mxGeometry x="-0.3369" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -65,7 +65,7 @@
             <mxPoint x="350.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-50" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-13" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-50" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-13" vertex="1" connectable="0">
           <mxGeometry x="0.1876" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -78,7 +78,7 @@
             <mxPoint x="380.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-51" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-14" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-51" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-14" vertex="1" connectable="0">
           <mxGeometry x="0.3518" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -91,7 +91,7 @@
             <mxPoint x="410.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-52" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-15" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-52" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-15" vertex="1" connectable="0">
           <mxGeometry x="0.4788" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -104,7 +104,7 @@
             <mxPoint x="510.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-55" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-16" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-55" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-16" vertex="1" connectable="0">
           <mxGeometry x="-0.2556" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -117,7 +117,7 @@
             <mxPoint x="490.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-54" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-17" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-54" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-17" vertex="1" connectable="0">
           <mxGeometry x="0.1884" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -130,7 +130,7 @@
             <mxPoint x="470.0588235294117" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haTNTQBAVEQ-URHlbs2T-53" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-18" vertex="1" connectable="0">
+        <mxCell id="haTNTQBAVEQ-URHlbs2T-53" value="Gửi Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="haTNTQBAVEQ-URHlbs2T-18" vertex="1" connectable="0">
           <mxGeometry x="0.4129" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -331,7 +331,7 @@
         <mxCell id="xFOwQCjYhqkvR8XhRgOC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xFOwQCjYhqkvR8XhRgOC-1" target="xFOwQCjYhqkvR8XhRgOC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xFOwQCjYhqkvR8XhRgOC-4" value="Gọi API&lt;br&gt;[API]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xFOwQCjYhqkvR8XhRgOC-3" vertex="1" connectable="0">
+        <mxCell id="xFOwQCjYhqkvR8XhRgOC-4" value="Gọi API&lt;br&gt;[HTTPS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xFOwQCjYhqkvR8XhRgOC-3" vertex="1" connectable="0">
           <mxGeometry x="0.1229" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
