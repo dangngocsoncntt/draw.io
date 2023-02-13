@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T02:22:48.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3Ki3YD7Rmu-yOsS4UArU" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T03:28:55.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0r-M1j6F3ud1-RECWPyV" version="20.8.20" type="github">
   <diagram name="Page-1" id="FkwfmJI3MNjf-J-gVQuq">
-    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
             <mxGeometry x="115" y="520" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Ubuntu" c4Type="ContainerScopeBoundary" c4Application="Node triển khai : Ubuntu 18.04" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="U1VdmHlD9G0fdga50d1m-18">
+        <object placeholders="1" c4Name="Ubuntu" c4Type="ContainerScopeBoundary" c4Application="Node triển khai : Ubuntu 16.04" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="U1VdmHlD9G0fdga50d1m-18">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="90" y="860" width="290" height="200" as="geometry" />
           </mxCell>
@@ -143,7 +143,7 @@
             <mxGeometry x="90" y="1130" width="290" height="190" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="napfdOq0VsTb4T-awuB--1" value="Gọi API&lt;br&gt;[Spring Cloud Gateway]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="U1VdmHlD9G0fdga50d1m-1">
+        <mxCell id="napfdOq0VsTb4T-awuB--1" value="Gọi API&lt;br&gt;[Spring Cloud Gateway]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="U1VdmHlD9G0fdga50d1m-1" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
             <mxPoint x="480" y="520" as="sourcePoint" />
             <mxPoint x="230" y="520" as="targetPoint" />
